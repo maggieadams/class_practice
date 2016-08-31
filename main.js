@@ -1,0 +1,1 @@
+$('.js-bgcolor').addClass('meta')
