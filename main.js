@@ -1,1 +1,1 @@
-$('.js-bgcolor').addClass('meta')
+$('.first-paragraph').addClass('meta');
